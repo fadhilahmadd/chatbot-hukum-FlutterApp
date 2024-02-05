@@ -1,6 +1,6 @@
 # lawbot
 
-A new Flutter project.
+Chatbot Hukum menggunakan Flutter, menggunakan custom model dataset sesuai hukum di indonesia.
 
 ## Getting Started
 
