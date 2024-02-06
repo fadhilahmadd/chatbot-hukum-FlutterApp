@@ -1,6 +1,6 @@
 # lawbot
 
-Chatbot Hukum menggunakan Flutter, menggunakan custom model dataset sesuai hukum di indonesia.
+Chatbot Hukum menggunakan Flutter, menggunakan custom model dataset sesuai hukum di indonesia. Dimana menggunakan FLASK untuk integrasi RESTful API
 <br>
 <img src="https://github.com/fadhilahmadd/img/blob/main/flutter-chatbot-hukum.png" width="18%"></img>
 <img src="https://github.com/fadhilahmadd/img/blob/main/flutter-chatbot-hukum2.png" width="18%"></img>
