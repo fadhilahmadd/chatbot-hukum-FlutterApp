@@ -1,6 +1,7 @@
 # lawbot
 
 Chatbot Hukum menggunakan Flutter, menggunakan custom model dataset sesuai hukum di indonesia.
+<br>
 <img src="https://github.com/fadhilahmadd/img/blob/main/flutter-chatbot-hukum.png" width="18%"></img>
 
 ## Getting Started
